@@ -16,6 +16,7 @@
 
 <img width="235" height="515" alt="0" src="https://github.com/user-attachments/assets/da7a6d5e-9b58-4103-b7e8-68518b4bc2dc" />
 <img width="236" height="514" alt="1" src="https://github.com/user-attachments/assets/428650c2-b3f5-4952-9f72-c6ce9c74b441" />
+<img width="239" height="514" alt="4" src="https://github.com/user-attachments/assets/ad5b1849-bacd-41b8-96c4-62683306de15" />
 
 | 寻物列表 | LostList.ets | 展示所有寻物启事，青色边框，物品图标 |
 
@@ -26,7 +27,7 @@
 <img width="238" height="515" alt="3" src="https://github.com/user-attachments/assets/8f77a971-5c98-4186-a6ea-bd4072ba8c5e" />
 
 | 发布寻物 | LostAdd.ets | 表单：物品名称、时间、地点、电话、酬金、备注 |
-<img width="239" height="514" alt="4" src="https://github.com/user-attachments/assets/a286a019-1cea-4207-8ec0-c31d96995e11" />
+
 <img width="236" height="517" alt="5" src="https://github.com/user-attachments/assets/0fb2f9d7-1d8f-4a58-ba46-08defa9530ab" />
 <img width="238" height="514" alt="6" src="https://github.com/user-attachments/assets/90b73d9f-81fb-4c63-a5f0-50f78a8a0333" />
 <img width="237" height="517" alt="7" src="https://github.com/user-attachments/assets/bdd59a87-332f-4733-964d-5b73d1501cef" />
@@ -34,8 +35,8 @@
 | 发布招领 | FindAdd.ets | 表单：物品名称、时间、地点、电话、备注 |
 
 <img width="239" height="512" alt="8" src="https://github.com/user-attachments/assets/e474529d-3761-4f12-9aa2-b3b0306829f7" />
-
-其余功能与发布寻物一致
+<img width="236" height="512" alt="31" src="https://github.com/user-attachments/assets/85badab5-1241-4eac-abff-05ba250d36bf" />
+<img width="233" height="512" alt="32" src="https://github.com/user-attachments/assets/5b1f5ba5-af89-418c-8e8f-0eaaa454d5d3" />
 
 
 ## 🚀 如何运行
@@ -85,6 +86,8 @@ entry/src/main/ets/
 · lg：≥ 840px（平板横屏/大屏）→ 三列网格，卡片式布局
 
 平板页面展示
+
+
 <img width="614" height="392" alt="20" src="https://github.com/user-attachments/assets/fee3c327-5dc1-4a7a-bfd5-03cc8d89588c" />
 <img width="610" height="393" alt="21" src="https://github.com/user-attachments/assets/d3e74aaf-f55f-4184-bc46-7228ddd5dfda" />
 <img width="611" height="395" alt="22" src="https://github.com/user-attachments/assets/47cb060e-41d6-476e-a311-234427baf0ae" />
@@ -94,6 +97,8 @@ entry/src/main/ets/
 <img width="613" height="394" alt="26" src="https://github.com/user-attachments/assets/6e3d1590-d702-4bd2-bf23-b0877e64958e" />
 <img width="613" height="389" alt="27" src="https://github.com/user-attachments/assets/e9c45e1f-a936-453a-831e-48a28ca36e39" />
 <img width="611" height="395" alt="28" src="https://github.com/user-attachments/assets/33f3718c-cc88-4d0a-a0e3-3fb1fda06cc4" />
+<img width="609" height="394" alt="33" src="https://github.com/user-attachments/assets/8fe3c33e-ca54-45b3-8b5c-5f7d9ce89cbc" />
+<img width="610" height="392" alt="34" src="https://github.com/user-attachments/assets/e5fc42d6-d1e8-4210-ae76-42207a704c53" />
 
 
 🎨 配色方案
